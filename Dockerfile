@@ -1,5 +1,4 @@
 FROM python:3
-RUN apt update -y
 
 WORKDIR /data
 
